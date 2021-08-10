@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { NavLink as Link } from "react-router-dom";
 import ProfileImg from '../assets/images/foto-perfil.jpeg';
 import { Container } from "../style/global";
